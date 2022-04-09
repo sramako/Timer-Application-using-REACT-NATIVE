@@ -20,7 +20,7 @@
     "@react-native-community/masked-view": "^0.1.6",
     "expo-constants": "^8.0.0",
     "expokit": "^36.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react-moment": "^0.9.7",
     "react-native-action-button": "^2.8.5",
     "react-native-modal-datetime-picker": "^8.1.1",
